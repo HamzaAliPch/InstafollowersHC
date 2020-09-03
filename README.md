@@ -9,7 +9,7 @@ apt upgrade
 
 apt install git
 
-git clone https://github.com/rixon-cochi/Lucifer.git
+git clone https://github.com/HamzaAliPch/InstafollowersHC/
 
 ls
 
